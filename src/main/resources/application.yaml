@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: embabel-condition-demo-ecommerce-replacement-agent
+
+embabel:
+  models:
+    defaultLlm: meta-llama/llama-4-scout:free
+
+logging:
+  level:
+    #com.embabel: DEBUG
+    org.springframework.ai: DEBUG
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
