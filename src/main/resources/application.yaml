@@ -4,7 +4,7 @@ spring:
 
 embabel:
   models:
-    defaultLlm: meta-llama/llama-4-scout:free
+    defaultLlm: z-ai/glm-4.5-air:free
 
 logging:
   level:

@@ -26,16 +26,6 @@ public class ConfigureOpenRouterModels extends OpenAiCompatibleModelFactory {
     }
 
     @Bean
-    public Llm llama4_free() {
-        return openAiCompatibleLlm(
-                "meta-llama/llama-4-scout:free",
-                new PerTokenPricingModel(0.0, 0.0),
-                "OpenRouter",
-                LocalDate.of(2025, 1, 1)
-        );
-    }
-
-    @Bean
     public Llm mistral7b_free() {
         return openAiCompatibleLlm(
                 "mistralai/mistral-7b-instruct:free",
