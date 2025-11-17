@@ -5,6 +5,19 @@ This repository demonstrates how to build a decision-making AI agent using the E
 📖 **Complete Guide**: For detailed explanations and a full code walkthrough, read our comprehensive tutorial.<br>
 👉 [**Embabel Framework Condition Annotation: Building Decision Making AI Agents**](https://bootcamptoprod.com/embabel-framework-condition-annotation/)
 
+🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
+👉 YouTube Tutorial - [**Embabel Framework @Condition Annotation - Build AI Agents with Conditional Logic**](https://youtu.be/BRXkK0QP2hc)
+
+<p align="center">
+  <a href="https://youtu.be/BRXkK0QP2hc">
+    <img src="https://img.youtube.com/vi/BRXkK0QP2hc/0.jpg" alt="Embabel Framework @Condition Annotation - Build AI Agents with Conditional Logic" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/BRXkK0QP2hc">Watch on YouTube</a>
+</p>
+
 ---
 
 ## ✨ What This Project Demonstrates
